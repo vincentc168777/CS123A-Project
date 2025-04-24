@@ -1,1 +1,4 @@
-
+Please make sure to download the following files and place them in the same folder where you run the Jupyter Notebook:
+LSDS-112_Immunoassay_Roy_ECLIA_AllTissues_SUBMITTED
+LSDS-112_Immunoassay_Roy_ECLIA_Cortex_TRANSFORMED
+OSD-751_dictionary_Roy_DataDictionary
