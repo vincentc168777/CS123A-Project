@@ -38,8 +38,11 @@ Installation Instructions:
 --------------------------
 1. Clone or download the project folder.
 2. Open the folder in VS Code.
-3. Run the notebook
-
+3. Make sure the following data files are downloaded and saved in the **same folder** where you will run the notebook:
+   - `LSDS-112_Immunoassay_Roy_ECLIA_AllTissues_SUBMITTED`
+   - `LSDS-112_Immunoassay_Roy_ECLIA_Cortex_TRANSFORMED`
+   - `OSD-751_dictionary_Roy_DataDictionary`
+  
 Results:
 ---------
 Classification Accuracy (Logistic Regression): **40.00%**
